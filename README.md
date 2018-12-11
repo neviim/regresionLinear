@@ -1,0 +1,2 @@
+# regresionLinear
+IA Regressão Linear 
